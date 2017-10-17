@@ -1,0 +1,65 @@
+
+body {
+background: url('http://cdn.wallpapersafari.com/48/44/ywn5HL.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+h1 {
+text-align: center;
+padding-top: 30px;
+}
+
+.buttonHolder{
+  margin: auto;
+}
+
+#title{
+  color: #9bbfe4;
+  opacity: 0.8;
+}
+
+#quoteDisplay {
+  padding: 50px 10px 50px 10px;
+  background-color: #9bbfe4;
+  font-size: 20px;
+  color: #0D152B;
+  font-family:'Poppins', sans-serif;
+  height: 220px;
+  width: 500px;
+  border-radius: 10px;
+  opacity: 0.4;
+  text-align:center;
+  margin: auto;
+}
+
+#quoteButton {
+  height: 30px;
+  width: 90px;
+    margin: auto;
+    background-color: white;
+    opacity: 0.9;
+    color: #337EB7;
+    border-radius: 10%;
+    background-color: #C0C0C0;
+}
+
+#twitter-pic {
+  height:13px;
+  width: 15px;
+  margin-right: 5px;
+}
+
+#tweetButton {
+  margin:auto;
+  text-align: right;
+  height: 30px;
+  border-radius:8%;
+  text-decoration:none;
+}
+
+a: hover {
+  color: black;
+}
